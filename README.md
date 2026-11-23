@@ -1,0 +1,2 @@
+# SpecterCore
+Dinamica em grupo
